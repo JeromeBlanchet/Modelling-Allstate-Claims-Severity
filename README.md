@@ -24,7 +24,9 @@ Part 5) Grid Search, Random Search and Bayesian Hyperparameter Search...........
 To do list this week, 
 
 Neural Network in Keras with Tensorflow backend
+ 
 Neural Network from scratch in Tensorflow
+ 
 Neural Network from scratch in Theano...maybe if time
 
 
