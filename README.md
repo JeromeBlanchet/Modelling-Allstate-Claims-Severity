@@ -14,7 +14,7 @@ Part 3) Benchmark (Modelling without any Preprocessing).........................
  
 Part 4) Preprocessing.....................................................................................................XXX
  
-4.1 Dimensionality Reduction with PCA.....................................................................................XXX
+4.1 Dimensionality Reduction with PCA.....................................................................................XXXX
  
 4.2 Dimensionality Reduction with T-distributed stochastic neighbor embedding (t-SNE) on top of PCA.......................XXX
 
