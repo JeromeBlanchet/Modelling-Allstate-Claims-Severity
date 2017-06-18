@@ -23,7 +23,7 @@ Part 2) Data Description and Interaction .......................................
  
 Part 3) Preprocessing the Data...............................................................................................XXX  
  
--  3.0 Logarithmic Tranformation 
+-  3.0 Logarithmic Tranformation, Outliers, Standardization and No-Variance Variables 
 -  3.1 Dimensionality Reduction with Principal Component Analysis (PCA) Binary Variables Only  
 -  3.2 Dimensionality Reduction with T-distributed stochastic neighbor embedding (t-SNE) on top (PCA)  
 -  3.3 Dimensionality Reduction with Principal Component Analysis (PCA) Continuous Variables Only  
