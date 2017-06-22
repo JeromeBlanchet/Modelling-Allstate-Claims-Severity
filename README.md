@@ -1,4 +1,4 @@
-# Modelling the AllState Claim Severity Dataset (2017)
+# Modelling the AllState Claim Severity Dataset (June 2017)
 ### by Jérôme E. Blanchet, Senior Analyst | Data Scientist 
 
 981 Gulf Pl, Ottawa, ON K1K 3X9 (613) 746-4120 
